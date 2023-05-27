@@ -1,18 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Mar 29 21:24:49 2023
 
-@author: jawan
-"""
-
-"""
-Created on Tue Mar 28 15:39:00 2023
-
-@author: jawan
-"""
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 27 00:34:45 2023
 
 @author: jawan
 """
@@ -52,7 +40,7 @@ dfs = []
 sensor_names = ['Sensor4', 'Sensor6', 'Sensor7', 'Sensor8','Sensor10', 'Sensor16', 'Sensor20', 'Sensor21']
 
 for sensor_name in tqdm(sensor_names, desc="Processing sensors"):
-    filename = f"C:\\Users\\jawan\\Dissertation Data\\Final Datasets\\SM\\LCS_SM_2018_2019\\{sensor_name}_SM.csv"
+    filename = r"C:\Users\<Enter your local directory for Regulatory Data>"
     try:
         df = pd.read_csv(filename)
         df['created_at'] = pd.to_datetime(df['created_at']).dt.tz_convert('UTC')
