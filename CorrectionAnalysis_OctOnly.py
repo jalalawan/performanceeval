@@ -35,7 +35,7 @@ from sklearn.metrics import r2_score, mean_squared_error
 import os
 import pandas as pd
 
-reg_folder_path = r"C:\Users\jawan\Dissertation Data\Final Datasets\SM\Regulatory_SM_2018_2019"
+reg_folder_path = r"C:\Users\<Enter your local directory for Regulatory Data>"
 reg_file_names = ['Reg_SM_2018.csv']
 
 # Create an empty list to store the reference DataFrames
