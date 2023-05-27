@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May  9 09:26:31 2023
+
 
 @author: jawan
 """
@@ -37,7 +37,7 @@ dfs = []
 sensor_names = ['Sensor'+str(i) for i in range(1, 31)]
 
 for sensor_name in tqdm(sensor_names, desc="Processing sensors"):
-    filename = f"C:\\Users\\jawan\\Dissertation Data\\Final Datasets\\PGH\\LCS_PGH_2018_2019\\Quarter 1\\{sensor_name}_no_outliers_averaged.csv"
+    filename = f"r"C:\Users\<Enter your local directory for Data>""
     try:
         df = pd.read_csv(filename)
         # Extract 'CAZIER-PA-XXX' format from file name and add 'sensor_name' column
@@ -54,7 +54,7 @@ for sensor_name in tqdm(sensor_names, desc="Processing sensors"):
 
         
         
-filename = r"C:\Users\jawan\Dissertation Data\Final Datasets\PGH\Regulatory_PGH_2018_2019\PGH_Regulatory.csv"
+filename = r"C:\Users\<Enter your local directory for Regulatory Data>"
 df_reg = pd.read_csv(filename)  
 
 
@@ -220,7 +220,7 @@ dfs = []
 sensor_names = ['Sensor'+str(i) for i in range(1, 31)]
 
 for sensor_name in tqdm(sensor_names, desc="Processing sensors"):
-    filename = f"C:\\Users\\jawan\\Dissertation Data\\Final Datasets\\PGH\\LCS_PGH_2018_2019\\Quarter 2\\{sensor_name}_no_outliers_averaged.csv"
+    filename = r"C:\Users\<Enter your local directory for Regulatory Data>"
     try:
         df = pd.read_csv(filename)
         # Extract 'CAZIER-PA-XXX' format from file name and add 'sensor_name' column
