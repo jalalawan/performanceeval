@@ -24,7 +24,7 @@ Background:
 
 - Guidance on low-cost sensor siting, deployment, and performance evaluation is recent and evolving (latest information in Enhanced Air Sensors Guidebook, 2022) which is used as the basis for this work.
 
-From overall review of LCS Literature:
+From review of LCS Literature:
 
 - Lack of long-term performance evaluations against reference monitors (typically > 1-year deployment) 
 - “Multiple Deployments” refer to at least 3 sensors deployed in at least 2 cities and/or 2 EPA Regions
