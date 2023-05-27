@@ -3,6 +3,8 @@
 **
 The repository contains analysis for Santa Monica sensors (n=16) for Quarter 0 (Oct - Dec 2018). Steps presented here were repeated for Santa Monica from Jan 2019 - Dec 2019, and for Pittsburgh from July 2019 - July 2020. Detailed analysis and datasets may be shared on request.
 
+Note: Conda environment suggested for EPA's sensortoolkit package. Please follow instructions in .yml file.
+
 ![image](https://github.com/jalalawan/performanceeval/assets/39367591/171171c2-baa0-4656-9f70-b011ab173c9e)
 
 **Background**:
