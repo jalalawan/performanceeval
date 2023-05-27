@@ -1,6 +1,25 @@
 # performanceeval
 EPA vs. LCS (Low Cost Sensor) Data Performance Evaluation
 
+![image](https://github.com/jalalawan/performanceeval/assets/39367591/171171c2-baa0-4656-9f70-b011ab173c9e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Background:
 
 - Guidance on low-cost sensor siting, deployment, and performance evaluation is recent and evolving (latest information in Enhanced Air Sensors Guidebook, 2022) which is used as the basis for this work.
