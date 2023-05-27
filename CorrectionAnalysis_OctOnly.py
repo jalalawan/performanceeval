@@ -1,14 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Apr  3 16:14:29 2023
 
-@author: jawan
-"""
-
-"""
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 27 00:34:45 2023
 '''
 @author: jawan
 '''
