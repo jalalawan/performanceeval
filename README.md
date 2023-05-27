@@ -26,12 +26,12 @@ Data Preprocessing (Step 1):
 
 Data Preprocessing (Step 2-4):
 ![image](https://github.com/jalalawan/performanceeval/assets/39367591/3c80ca3e-7cbd-4652-a318-d9f6f049a521)
+![image](https://github.com/jalalawan/performanceeval/assets/39367591/0affcf31-6a9f-43bc-9e9c-c6221938e837)
 
 Performance Assessment Using EPA's "sensortoolkit" package / Data Preprocessing partly done using RStudio Desktop 2021.09:
 ![image](https://github.com/jalalawan/performanceeval/assets/39367591/4058bb84-20f2-4335-89b6-e023319d525b)
 
 
-![image](https://github.com/jalalawan/performanceeval/assets/39367591/a125cc61-6486-4b98-9f3a-5442d7977b38)
 ![image](https://github.com/jalalawan/performanceeval/assets/39367591/c7313710-2ba4-4e33-b6e0-126b222ff4ee)
 
 
