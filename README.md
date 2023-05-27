@@ -3,23 +3,6 @@ EPA vs. LCS (Low Cost Sensor) Data Performance Evaluation
 
 ![image](https://github.com/jalalawan/performanceeval/assets/39367591/171171c2-baa0-4656-9f70-b011ab173c9e)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Background:
 
 - Guidance on low-cost sensor siting, deployment, and performance evaluation is recent and evolving (latest information in Enhanced Air Sensors Guidebook, 2022) which is used as the basis for this work.
@@ -35,6 +18,20 @@ From review of LCS Literature:
 
 ![image](https://github.com/jalalawan/performanceeval/assets/39367591/b2901c00-d4b0-43dc-9578-74c54e259acc)
 
+Data Preprocessing (Step 0):
+![image](https://github.com/jalalawan/performanceeval/assets/39367591/d4e4374f-a918-4824-b4a3-939491fdbaf6)
+
+Data Preprocessing (Step 1):
+![image](https://github.com/jalalawan/performanceeval/assets/39367591/a125cc61-6486-4b98-9f3a-5442d7977b38)
+
+Data Preprocessing (Step 2-4):
+![image](https://github.com/jalalawan/performanceeval/assets/39367591/3c80ca3e-7cbd-4652-a318-d9f6f049a521)
+
+Performance Assessment Using EPA's "sensortoolkit" package / Data Preprocessing partly done using RStudio Desktop 2021.09:
+![image](https://github.com/jalalawan/performanceeval/assets/39367591/4058bb84-20f2-4335-89b6-e023319d525b)
+
+
+![image](https://github.com/jalalawan/performanceeval/assets/39367591/a125cc61-6486-4b98-9f3a-5442d7977b38)
 ![image](https://github.com/jalalawan/performanceeval/assets/39367591/c7313710-2ba4-4e33-b6e0-126b222ff4ee)
 
 
