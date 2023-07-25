@@ -1,4 +1,4 @@
-# performanceeval
+# Evaluating performance of socio-technical systems for improved reliability: Evidence from sensor-human networks.
 **EPA vs. LCS (Low Cost Sensor) Data Performance Evaluation
 **
 The repository contains analysis for Santa Monica sensors (n=16) for Quarter 0 (Oct - Dec 2018). Steps presented here were repeated for Santa Monica from Jan 2019 - Dec 2019, and for Pittsburgh from July 2019 - July 2020. Detailed analysis and datasets may be shared on request.
